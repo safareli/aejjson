@@ -1,0 +1,3482 @@
+{
+  "vessel": { "imo": 9337626, "name": "NYK CONSTELLATION" },
+  "portCalls": [
+    {
+      "arrival": "2018-12-30T16:36:00+00:00",
+      "departure": "2018-12-31T03:12:00+00:00",
+      "createdDate": "2018-12-21T17:00:53.09504+00:00",
+      "isOmitted": false,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "KRPUS", "name": "Busan" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2018-12-29T21:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-21T17:00:53.09504+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2018-12-30T07:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-21T17:00:53.09504+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2018-12-30T15:01:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-28T07:01:57.517181+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2018-12-31T02:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-28T07:01:57.826619+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2018-12-30T16:36:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-30T16:52:13.821092+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2018-12-31T02:30:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-30T16:52:14.150653+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2018-12-31T03:12:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-31T04:21:31.320372+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2018-12-30T23:00:00+00:00",
+      "departure": "2018-12-31T08:00:00+00:00",
+      "createdDate": "2018-10-10T00:07:49.87915+00:00",
+      "isOmitted": true,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "JPNGO", "name": "Nagoya, Aichi" },
+      "logEntries": [
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2018-12-31T08:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-10-10T00:07:49.87915+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2018-12-30T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-10-10T00:07:49.87915+00:00"
+        },
+        {
+          "updatedField": "isOmitted",
+          "arrival": null,
+          "departure": null,
+          "isOmitted": true,
+          "createdDate": "2018-12-08T09:17:02.139819+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-01-01T23:12:00+00:00",
+      "departure": "2019-01-02T05:48:00+00:00",
+      "createdDate": "2018-10-10T00:07:50.447402+00:00",
+      "isOmitted": false,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "JPUKB", "name": "Kobe" },
+      "logEntries": [
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-01T18:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-10-10T00:07:50.447402+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2018-12-31T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-10-10T00:07:50.447402+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-01T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-08T09:17:02.809213+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-03T06:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-08T09:17:03.125536+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-01T13:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-14T00:39:39.295531+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-03T02:30:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-14T00:39:39.613738+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-01T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-14T16:43:45.577708+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-03T08:30:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-14T16:43:45.87068+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-02T06:30:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-18T00:30:46.305815+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-03T16:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-18T00:30:46.596866+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-02T09:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-18T01:09:37.814709+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-03T19:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-18T01:09:38.092353+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-02T01:30:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-18T14:13:25.673742+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-03T11:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-18T14:13:25.979543+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-01T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-19T08:26:43.470913+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-03T08:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-19T08:26:43.761433+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2018-12-31T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-21T17:00:53.861707+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-01T18:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-21T17:00:54.234758+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-01T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-27T00:54:29.02087+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-02T07:30:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-27T00:54:29.369966+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-01T18:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-28T07:01:58.533073+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-03T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-28T07:01:58.836698+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-01T23:12:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-01-01T23:44:23.280998+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-03T14:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-01T23:44:23.650264+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-02T05:48:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-02T06:39:30.103042+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-01-02T22:30:00+00:00",
+      "departure": "2019-01-03T06:06:00+00:00",
+      "createdDate": "2018-10-30T01:51:03.787779+00:00",
+      "isOmitted": false,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "JPNGO", "name": "Nagoya, Aichi" },
+      "logEntries": [
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-04T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-10-30T01:51:03.787779+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-03T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-10-30T01:51:03.787779+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-04T00:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-08T09:17:03.788746+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-04T10:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-08T09:17:04.10381+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-04T06:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-18T00:30:47.195093+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-04T15:30:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-18T00:30:47.484918+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-03T22:30:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-19T08:26:44.39309+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-04T08:30:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-19T08:26:44.678412+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-03T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-20T01:41:36.331461+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-04T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-20T01:41:36.63846+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-02T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-28T04:46:44.345203+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-03T07:30:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-28T04:46:44.714596+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-03T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-28T07:01:59.474932+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-04T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-28T07:01:59.767053+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-02T22:30:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-01-02T23:05:42.029022+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-03T06:06:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-03T06:21:52.867499+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-01-03T23:00:00+00:00",
+      "departure": "2019-01-05T06:54:00+00:00",
+      "createdDate": "2018-10-30T01:51:07.054642+00:00",
+      "isOmitted": false,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "JPTYO", "name": "Tokyo" },
+      "logEntries": [
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-05T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-10-30T01:51:07.054642+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-05T02:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-10-30T01:51:07.054642+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-05T03:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-08T09:17:04.80148+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-05T10:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-08T09:17:05.111987+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-05T08:30:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-18T01:09:38.698772+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-05T16:30:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-18T01:09:38.973706+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-05T02:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-18T14:13:26.578866+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-05T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-18T14:13:26.883597+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-04T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-27T00:54:30.068268+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-03T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-28T04:46:45.37219+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-05T03:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-28T04:46:45.741629+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-05T02:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-28T07:02:00.388017+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-05T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-28T07:02:00.704033+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-03T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-01-03T23:30:44.108872+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-05T06:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-04T02:24:01.982473+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-05T07:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-04T12:28:53.109197+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-05T06:54:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-05T07:19:14.691749+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-01-06T01:35:00+00:00",
+      "departure": "2019-01-06T05:50:00+00:00",
+      "createdDate": "2018-10-10T00:07:51.015251+00:00",
+      "isOmitted": false,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "JPSDJ", "name": "Sendai, Miyagi" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-06T03:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-10-10T00:07:51.015251+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-06T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-10-10T00:07:51.015251+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-06T04:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-08T09:17:05.737953+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-06T10:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-08T09:17:06.048315+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-06T03:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-19T08:26:45.290387+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-06T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-19T08:26:45.575668+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-05T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-28T04:46:46.379494+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-06T05:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-28T04:46:46.728867+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-06T06:30:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-01-01T23:44:24.734951+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-06T12:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-01T23:44:25.031526+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-06T01:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-01-05T02:57:59.618152+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-06T04:30:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-05T02:57:59.987241+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-06T01:35:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-01-06T10:30:49.48199+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-06T05:50:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-06T10:30:49.789412+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-01-19T15:06:00+00:00",
+      "departure": "2019-01-21T02:18:00+00:00",
+      "createdDate": "2018-10-30T01:51:12.893291+00:00",
+      "isOmitted": false,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "USLAX", "name": "Los Angeles" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-17T02:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-10-30T01:51:12.893291+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-19T04:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-10-30T01:51:12.893291+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-17T01:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-01-07T01:09:54.451841+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-19T03:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-07T01:09:54.800269+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-17T15:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-01-08T21:13:10.626569+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-19T12:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-08T21:13:10.912006+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-18T15:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-01-11T21:38:16.57394+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-20T12:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-11T21:38:16.870652+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-21T12:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-16T13:50:59.594338+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-19T15:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-01-16T13:50:59.594338+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-21T01:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-18T21:12:54.083842+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-19T15:06:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-01-19T15:30:23.033559+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-21T02:18:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-21T02:49:28.394959+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-01-22T01:12:00+00:00",
+      "departure": "2019-01-22T12:12:00+00:00",
+      "createdDate": "2018-10-30T01:51:15.714696+00:00",
+      "isOmitted": false,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "USOK3", "name": "Oakland" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-20T12:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-10-30T01:51:15.714696+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-21T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-10-30T01:51:15.714696+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-21T13:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-01-11T21:38:17.524789+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-22T10:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-11T21:38:17.831912+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-23T10:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-16T13:51:00.130883+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-22T13:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-01-16T13:51:00.130883+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-22T10:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-18T21:12:54.090834+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-22T00:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-01-18T21:12:54.090834+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-01-22T01:12:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-01-22T03:28:25.606745+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-01-22T12:12:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-22T15:01:12.113781+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-02-04T04:00:00+00:00",
+      "departure": "2019-02-04T14:00:00+00:00",
+      "createdDate": "2018-11-13T00:14:57.931533+00:00",
+      "isOmitted": true,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "JPNGO", "name": "Nagoya, Aichi" },
+      "logEntries": [
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-04T08:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-11-13T00:14:57.931533+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-03T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-11-13T00:14:57.931533+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-04T04:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-01-16T13:51:00.139755+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-04T14:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-16T13:51:00.139755+00:00"
+        },
+        {
+          "updatedField": "isOmitted",
+          "arrival": null,
+          "departure": null,
+          "isOmitted": true,
+          "createdDate": "2019-01-17T13:57:35.791238+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-02-04T09:18:00+00:00",
+      "departure": "2019-02-04T17:36:00+00:00",
+      "createdDate": "2018-11-13T00:14:56.923653+00:00",
+      "isOmitted": false,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "JPTYO", "name": "Tokyo" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-02T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-11-13T00:14:56.923653+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-03T08:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-11-13T00:14:56.923653+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-03T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-01-23T08:25:45.539208+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-04T08:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-23T08:25:45.539208+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-04T09:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-01-29T02:58:29.226579+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-04T18:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-29T02:58:29.226579+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-04T09:18:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-04T09:50:38.403706+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-04T22:30:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-04T09:50:38.403706+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-04T17:36:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-04T18:02:48.015526+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-02-05T22:34:00+00:00",
+      "departure": "2019-02-06T10:48:00+00:00",
+      "createdDate": "2018-11-13T00:14:58.866006+00:00",
+      "isOmitted": false,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "JPUKB", "name": "Kobe" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-04T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-11-13T00:14:58.866006+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-05T18:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-11-13T00:14:58.866006+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-06T07:30:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-16T13:51:00.15456+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-05T05:30:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-01-16T13:51:00.15456+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-05T18:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-18T21:12:54.098689+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-04T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-01-18T21:12:54.098689+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-07T03:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-23T08:25:45.554609+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-05T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-01-23T08:25:45.554609+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-06T19:30:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-29T02:58:29.234039+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-05T18:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-01-29T02:58:29.234039+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-05T17:30:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-04T18:02:48.028502+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-06T13:30:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-04T18:02:48.028502+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-06T19:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-05T22:59:52.17561+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-05T22:42:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-05T22:59:52.17561+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-06T03:24:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-06T03:52:56.323208+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-06T11:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-06T04:42:26.345531+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-05T22:34:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-06T04:42:26.345531+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-06T10:54:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-06T11:17:16.216749+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-06T10:48:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-07T01:24:34.663296+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-02-07T23:48:00+00:00",
+      "departure": "2019-02-08T14:12:00+00:00",
+      "createdDate": "2018-12-03T00:15:07.399336+00:00",
+      "isOmitted": false,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "JPNGO", "name": "Nagoya, Aichi" },
+      "logEntries": [
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-08T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-03T00:15:07.399336+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-07T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-03T00:15:07.399336+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-07T23:48:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-08T01:29:03.556849+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-08T14:30:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-08T01:29:03.556849+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-08T14:12:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-08T15:03:11.63566+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-02-09T05:06:00+00:00",
+      "departure": "2019-02-09T14:30:00+00:00",
+      "createdDate": "2018-12-03T00:15:08.334156+00:00",
+      "isOmitted": false,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "JPTYO", "name": "Tokyo" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-09T02:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-03T00:15:08.334156+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-09T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-03T00:15:08.334156+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-09T18:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-08T01:29:03.562877+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-09T05:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-08T01:29:03.562877+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-09T18:30:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-09T05:36:41.521321+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-09T05:06:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-09T05:36:41.521321+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-09T14:30:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-09T16:21:24.606167+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-02-10T08:30:00+00:00",
+      "departure": "2019-02-10T14:20:00+00:00",
+      "createdDate": "2018-11-13T00:14:59.806775+00:00",
+      "isOmitted": false,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "JPSDJ", "name": "Sendai, Miyagi" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-10T03:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-11-13T00:14:59.806775+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-10T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-11-13T00:14:59.806775+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-10T16:30:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-08T01:29:03.568753+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-10T12:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-08T01:29:03.568753+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-10T13:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-11T00:54:02.045569+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-10T08:30:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-11T00:54:02.045569+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-10T14:20:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-11T10:11:37.678854+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-02-21T13:48:00+00:00",
+      "departure": "2019-02-24T02:24:00+00:00",
+      "createdDate": "2018-12-03T00:15:09.216655+00:00",
+      "isOmitted": false,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "USLAX", "name": "Los Angeles" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-21T02:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-03T00:15:09.216655+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-23T04:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-03T00:15:09.216655+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-21T13:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-08T01:29:03.574463+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-25T09:30:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-08T01:29:03.574463+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-21T13:30:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-09T05:36:41.528682+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-24T21:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-09T05:36:41.528682+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-23T04:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-11T00:54:02.057638+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-21T02:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-11T00:54:02.057638+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-23T12:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-11T21:54:44.185998+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-21T15:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-11T21:54:44.185998+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-21T13:48:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-21T14:11:03.570714+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-24T02:24:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-24T02:43:11.579978+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-02-25T10:48:00+00:00",
+      "departure": "2019-02-26T12:00:00+00:00",
+      "createdDate": "2018-12-03T00:15:09.892256+00:00",
+      "isOmitted": false,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "USOK3", "name": "Oakland" },
+      "logEntries": [
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-25T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-03T00:15:09.892256+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-24T12:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-03T00:15:09.892256+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-26T23:30:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-08T01:29:03.58109+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-26T07:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-08T01:29:03.58109+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-25T18:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-09T05:36:41.536333+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-26T11:30:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-09T05:36:41.536333+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-25T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-11T00:54:02.073116+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-24T12:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-11T00:54:02.073116+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-24T13:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-11T21:54:44.203249+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-25T10:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-11T21:54:44.203249+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-26T10:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-25T07:04:56.570306+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-25T13:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-25T07:04:56.570306+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-02-25T10:48:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-25T13:17:53.466987+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-26T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-25T13:39:36.662573+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-02-26T12:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-26T14:46:23.962772+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-03-11T08:26:00+00:00",
+      "departure": "2019-03-11T19:02:00+00:00",
+      "createdDate": "2018-12-18T00:30:48.083672+00:00",
+      "isOmitted": false,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "JPTYO", "name": "Tokyo" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-09T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-18T00:30:48.083672+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-10T08:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-18T00:30:48.083672+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-10T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-03-07T05:04:54.003781+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-11T08:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-03-07T05:04:54.003781+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-11T19:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-03-11T00:45:33.157949+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-11T09:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-03-11T00:45:33.157949+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-11T08:30:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-03-11T09:11:25.535575+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-11T19:12:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-03-11T19:31:44.536012+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-11T08:26:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-03-12T00:20:46.669696+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-11T19:02:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-03-12T00:20:46.669696+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-03-12T10:36:00+00:00",
+      "departure": "2019-03-12T19:00:00+00:00",
+      "createdDate": "2018-12-18T00:30:48.998144+00:00",
+      "isOmitted": false,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "JPNGO", "name": "Nagoya, Aichi" },
+      "logEntries": [
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-11T08:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-18T00:30:48.998144+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-10T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-18T00:30:48.998144+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-11T22:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-28T00:49:02.946941+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-12T08:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-28T00:49:02.946941+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-11T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-03-07T05:04:54.012332+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-12T10:30:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-03-12T00:20:46.678731+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-12T19:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-03-12T00:20:46.678731+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-12T10:36:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-03-12T11:04:13.209093+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-03-13T09:42:00+00:00",
+      "departure": "2019-03-14T06:30:00+00:00",
+      "createdDate": "2018-12-18T00:30:49.881079+00:00",
+      "isOmitted": false,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "JPUKB", "name": "Kobe" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-11T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-18T00:30:49.881079+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-12T18:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-18T00:30:49.881079+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-12T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-28T00:49:03.48647+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-13T18:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-28T00:49:03.48647+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-14T03:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-03-07T05:27:17.587522+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-14T07:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-03-12T00:20:46.686729+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-13T09:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-03-12T00:20:46.686729+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-13T09:42:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-03-13T10:02:04.52848+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-14T06:30:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-03-14T07:08:25.600305+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-03-15T03:24:00+00:00",
+      "departure": "2019-03-15T11:50:00+00:00",
+      "createdDate": "2019-01-07T00:10:32.936825+00:00",
+      "isOmitted": false,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "JPNGO", "name": "Nagoya, Aichi" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-14T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-01-07T00:10:32.936825+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-15T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-07T00:10:32.936825+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-15T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-28T00:49:04.023406+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-16T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-28T00:49:04.023406+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-14T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-03-07T05:27:17.600438+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-15T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-03-07T05:27:17.600438+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-15T12:20:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-03-15T00:21:30.759131+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-15T02:30:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-03-15T00:21:30.759131+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-15T03:24:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-03-15T03:51:33.557548+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-15T13:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-03-15T04:53:21.68709+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-15T12:06:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-03-15T13:26:12.570644+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-15T11:50:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-03-18T00:26:47.685881+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-03-16T03:14:00+00:00",
+      "departure": "2019-03-16T10:51:00+00:00",
+      "createdDate": "2019-01-07T00:10:35.924938+00:00",
+      "isOmitted": false,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "JPTYO", "name": "Tokyo" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-16T02:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-01-07T00:10:35.924938+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-16T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-07T00:10:35.924938+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-17T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-28T00:49:04.582774+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-17T02:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-28T00:49:04.582774+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-16T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-03-07T05:27:17.613671+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-16T02:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-03-07T05:27:17.613671+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-16T03:18:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-03-16T03:52:46.787272+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-16T11:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-03-16T11:32:04.878441+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-16T03:14:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-03-18T00:26:47.706206+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-16T10:51:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-03-18T00:26:47.706206+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-03-17T04:40:00+00:00",
+      "departure": "2019-03-17T09:45:00+00:00",
+      "createdDate": "2018-12-18T00:30:50.762097+00:00",
+      "isOmitted": false,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "JPSDJ", "name": "Sendai, Miyagi" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-17T03:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2018-12-18T00:30:50.762097+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-17T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2018-12-18T00:30:50.762097+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-18T03:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-28T00:49:05.141745+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-18T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-28T00:49:05.141745+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-17T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-03-07T05:27:17.61959+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-17T03:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-03-07T05:27:17.61959+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-17T09:45:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-03-18T00:26:47.725948+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-17T04:40:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-03-18T00:26:47.725948+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-03-29T15:01:00+00:00",
+      "departure": "2019-03-30T02:01:00+00:00",
+      "createdDate": "2019-02-14T15:05:15.712603+00:00",
+      "isOmitted": true,
+      "service": "Atlantic Loop 5",
+      "port": { "id": "USLAX", "name": "Los Angeles" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-29T15:01:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-14T15:05:15.712603+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-30T02:01:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-14T15:05:15.712603+00:00"
+        },
+        {
+          "updatedField": "isOmitted",
+          "arrival": null,
+          "departure": null,
+          "isOmitted": true,
+          "createdDate": "2019-02-16T05:02:57.221525+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-03-30T12:54:00+00:00",
+      "departure": "2019-03-31T12:06:00+00:00",
+      "createdDate": "2019-01-07T00:10:41.085549+00:00",
+      "isOmitted": false,
+      "service": "Atlantic Loop 5",
+      "port": { "id": "USLAX", "name": "Los Angeles" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-28T01:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-01-07T00:10:41.085549+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-30T03:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-07T00:10:41.085549+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-29T13:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-14T14:43:01.874806+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-30T14:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-03-18T12:48:04.540854+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-01T11:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-03-18T12:48:04.540854+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-31T12:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-03-29T21:13:06.610865+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-30T12:54:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-03-30T13:04:13.385257+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-03-31T12:06:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-03-31T12:23:23.010869+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-04-02T10:24:00+00:00",
+      "departure": "2019-04-02T23:30:00+00:00",
+      "createdDate": "2019-01-07T00:10:44.025549+00:00",
+      "isOmitted": false,
+      "service": "Atlantic Loop 5",
+      "port": { "id": "USOK3", "name": "Oakland" },
+      "logEntries": [
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-01T08:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-07T00:10:44.025549+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-31T11:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-01-07T00:10:44.025549+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-03-31T13:01:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-14T14:43:01.886067+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-01T12:01:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-14T14:43:01.886067+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-02T12:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-03-18T12:48:04.556726+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-03T08:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-03-18T12:48:04.556726+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-01T12:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-03-29T21:13:06.620539+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-02T08:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-03-29T21:13:06.620539+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-02T22:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-04-01T19:52:30.895148+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-02T12:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-04-01T19:52:30.895148+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-02T10:24:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-04-02T12:48:44.950047+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-02T10:30:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-04-02T13:09:58.249887+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-02T23:30:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-04-03T16:22:20.191078+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-04-04T23:54:00+00:00",
+      "departure": "2019-04-05T14:06:00+00:00",
+      "createdDate": "2019-02-14T15:05:16.281477+00:00",
+      "isOmitted": false,
+      "service": "Atlantic Loop 5",
+      "port": { "id": "USSEA", "name": "Seattle" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-04T21:01:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-14T15:05:16.281477+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-05T16:01:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-14T15:05:16.281477+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-05T13:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-03-18T13:09:48.779011+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-06T11:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-03-18T13:09:48.779011+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-06T00:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-04-01T20:53:29.959822+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-05T00:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-04-01T20:53:29.959822+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-04T23:54:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-04-05T00:07:07.612057+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-05T14:06:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-04-05T14:31:31.741252+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-04-07T23:00:00+00:00",
+      "departure": "2019-04-08T08:00:00+00:00",
+      "createdDate": "2019-02-14T15:05:16.290171+00:00",
+      "isOmitted": false,
+      "service": "Atlantic Loop 5",
+      "port": { "id": "CAVAN", "name": "Vancouver" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-06T15:01:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-14T15:05:16.290171+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-07T00:01:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-14T15:05:16.290171+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-06T21:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-03-18T13:09:48.795106+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-07T22:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-03-18T13:09:48.795106+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-06T13:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-04-01T20:53:29.97217+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-07T06:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-04-01T20:53:29.97217+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-07T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-04-07T23:30:49.031286+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-07T23:01:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-04-07T23:30:49.031286+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-08T08:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-04-08T08:25:58.658048+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-04-10T12:06:00+00:00",
+      "departure": "2019-04-10T22:18:00+00:00",
+      "createdDate": "2019-02-14T14:43:01.916948+00:00",
+      "isOmitted": false,
+      "service": "Atlantic Loop 5",
+      "port": { "id": "USOK3", "name": "Oakland" },
+      "logEntries": [
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-09T21:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-14T14:43:01.916948+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-09T11:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-14T14:43:01.916948+00:00"
+        },
+        {
+          "updatedField": "isOmitted",
+          "arrival": null,
+          "departure": null,
+          "isOmitted": true,
+          "createdDate": "2019-02-14T15:05:16.258309+00:00"
+        },
+        {
+          "updatedField": "isOmitted",
+          "arrival": null,
+          "departure": null,
+          "isOmitted": false,
+          "createdDate": "2019-02-16T05:02:57.233387+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-09T22:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-03-18T13:09:48.811704+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-10T08:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-03-18T13:09:48.811704+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-09T12:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-04-01T20:53:29.987575+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-09T22:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-04-01T20:53:29.987575+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-11T10:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-04-08T14:52:36.201252+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-10T12:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-04-08T14:52:36.201252+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-10T12:06:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-04-10T14:43:28.440061+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-10T23:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-04-10T19:51:25.317215+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-10T22:18:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-04-11T00:50:33.40621+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-04-12T11:54:00+00:00",
+      "departure": "2019-04-13T12:30:00+00:00",
+      "createdDate": "2019-02-14T14:43:01.922025+00:00",
+      "isOmitted": false,
+      "service": "Atlantic Loop 5",
+      "port": { "id": "USLAX", "name": "Los Angeles" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-11T01:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-14T14:43:01.922025+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-11T12:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-14T14:43:01.922025+00:00"
+        },
+        {
+          "updatedField": "isOmitted",
+          "arrival": null,
+          "departure": null,
+          "isOmitted": true,
+          "createdDate": "2019-02-14T15:05:16.272008+00:00"
+        },
+        {
+          "updatedField": "isOmitted",
+          "arrival": null,
+          "departure": null,
+          "isOmitted": false,
+          "createdDate": "2019-02-16T05:02:57.24941+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-12T13:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-03-18T13:09:48.831696+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-11T12:30:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-03-18T13:09:48.831696+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-13T13:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-04-08T14:52:36.208238+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-12T12:30:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-04-08T14:52:36.208238+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-13T01:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-04-10T19:51:25.340409+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-11T23:30:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-04-10T19:51:25.340409+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-13T10:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-04-11T18:47:45.179475+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-12T12:30:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-04-11T18:47:45.179475+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-12T11:54:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-04-12T12:15:34.23396+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-13T12:30:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-04-13T16:32:50.072688+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-04-13T23:00:00+00:00",
+      "departure": "2019-04-14T08:00:00+00:00",
+      "createdDate": "2019-01-22T00:01:13.463401+00:00",
+      "isOmitted": true,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "JPTYO", "name": "Tokyo" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-13T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-01-22T00:01:13.463401+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-14T08:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-22T00:01:13.463401+00:00"
+        },
+        {
+          "updatedField": "isOmitted",
+          "arrival": null,
+          "departure": null,
+          "isOmitted": true,
+          "createdDate": "2019-02-13T18:34:07.182699+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-04-14T23:00:00+00:00",
+      "departure": "2019-04-15T08:00:00+00:00",
+      "createdDate": "2019-01-22T00:01:13.469536+00:00",
+      "isOmitted": true,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "JPNGO", "name": "Nagoya, Aichi" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-14T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-01-22T00:01:13.469536+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-15T08:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-22T00:01:13.469536+00:00"
+        },
+        {
+          "updatedField": "isOmitted",
+          "arrival": null,
+          "departure": null,
+          "isOmitted": true,
+          "createdDate": "2019-02-13T18:34:07.205828+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-04-15T23:00:00+00:00",
+      "departure": "2019-04-16T18:00:00+00:00",
+      "createdDate": "2019-01-22T00:01:13.474561+00:00",
+      "isOmitted": true,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "JPUKB", "name": "Kobe" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-15T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-01-22T00:01:13.474561+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-16T18:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-22T00:01:13.474561+00:00"
+        },
+        {
+          "updatedField": "isOmitted",
+          "arrival": null,
+          "departure": null,
+          "isOmitted": true,
+          "createdDate": "2019-02-13T18:56:59.85337+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-04-18T23:00:00+00:00",
+      "departure": "2019-04-19T09:00:00+00:00",
+      "createdDate": "2019-02-11T00:11:21.015924+00:00",
+      "isOmitted": true,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "JPNGO", "name": "Nagoya, Aichi" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-18T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-11T00:11:21.015924+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-19T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-11T00:11:21.015924+00:00"
+        },
+        {
+          "updatedField": "isOmitted",
+          "arrival": null,
+          "departure": null,
+          "isOmitted": true,
+          "createdDate": "2019-02-13T18:56:59.866602+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-04-20T02:00:00+00:00",
+      "departure": "2019-04-20T09:00:00+00:00",
+      "createdDate": "2019-02-11T00:11:21.556469+00:00",
+      "isOmitted": true,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "JPTYO", "name": "Tokyo" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-20T02:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-11T00:11:21.556469+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-20T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-11T00:11:21.556469+00:00"
+        },
+        {
+          "updatedField": "isOmitted",
+          "arrival": null,
+          "departure": null,
+          "isOmitted": true,
+          "createdDate": "2019-02-13T18:56:59.874078+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-04-20T17:06:00+00:00",
+      "departure": "2019-04-21T09:18:00+00:00",
+      "createdDate": "2019-02-14T14:43:01.926521+00:00",
+      "isOmitted": false,
+      "service": "Atlantic Loop 5",
+      "port": { "id": "PABLB", "name": "Balboa" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-20T15:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-14T14:43:01.926521+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-21T00:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-14T14:43:01.926521+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-20T17:06:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-04-20T17:31:53.316531+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-21T09:18:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-04-21T09:51:15.782823+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-04-21T03:00:00+00:00",
+      "departure": "2019-04-21T09:00:00+00:00",
+      "createdDate": "2019-01-22T00:01:13.479055+00:00",
+      "isOmitted": true,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "JPSDJ", "name": "Sendai, Miyagi" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-21T03:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-01-22T00:01:13.479055+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-21T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-01-22T00:01:13.479055+00:00"
+        },
+        {
+          "updatedField": "isOmitted",
+          "arrival": null,
+          "departure": null,
+          "isOmitted": true,
+          "createdDate": "2019-02-13T18:56:59.882042+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-04-23T16:54:00+00:00",
+      "departure": "2019-04-24T07:00:00+00:00",
+      "createdDate": "2019-02-14T14:43:01.931388+00:00",
+      "isOmitted": false,
+      "service": "Atlantic Loop 5",
+      "port": { "id": "COCTG", "name": "Cartagena" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-23T10:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-14T14:43:01.931388+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-23T19:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-14T14:43:01.931388+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-23T16:54:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-04-24T00:04:05.960005+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-24T03:30:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-04-24T00:04:05.960005+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-24T07:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-04-24T10:59:31.15318+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-04-26T14:24:00+00:00",
+      "departure": "2019-04-26T23:00:00+00:00",
+      "createdDate": "2019-02-14T14:43:01.936719+00:00",
+      "isOmitted": false,
+      "service": "Atlantic Loop 5",
+      "port": { "id": "DOCAU", "name": "Caucedo" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-26T03:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-14T14:43:01.936719+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-26T11:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-14T14:43:01.936719+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-26T14:24:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-04-26T15:01:17.348258+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-26T14:25:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-04-26T15:01:17.348258+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-26T23:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-04-26T23:31:05.285989+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-04-30T11:48:00+00:00",
+      "departure": "2019-05-01T05:42:00+00:00",
+      "createdDate": "2019-02-14T14:43:01.941451+00:00",
+      "isOmitted": false,
+      "service": "Atlantic Loop 5",
+      "port": { "id": "USTSA", "name": "Savannah" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-30T18:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-14T14:43:01.941451+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-01T07:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-14T14:43:01.941451+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-04-30T23:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-04-29T20:49:41.707183+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-30T13:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-04-29T20:49:41.707183+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-01T11:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-04-30T11:28:15.644901+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-04-30T11:48:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-04-30T11:28:15.644901+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-01T05:42:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-05-01T05:10:06.921726+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-05-02T01:00:00+00:00",
+      "departure": "2019-05-04T03:00:00+00:00",
+      "createdDate": "2019-02-11T00:11:22.105244+00:00",
+      "isOmitted": true,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "USLAX", "name": "Los Angeles" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-02T01:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-11T00:11:22.105244+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-04T03:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-11T00:11:22.105244+00:00"
+        },
+        {
+          "updatedField": "isOmitted",
+          "arrival": null,
+          "departure": null,
+          "isOmitted": true,
+          "createdDate": "2019-02-13T18:56:59.894133+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-05-05T11:00:00+00:00",
+      "departure": "2019-05-06T08:00:00+00:00",
+      "createdDate": "2019-02-11T00:11:22.699392+00:00",
+      "isOmitted": true,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "USOK3", "name": "Oakland" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-05T11:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-11T00:11:22.699392+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-06T08:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-11T00:11:22.699392+00:00"
+        },
+        {
+          "updatedField": "isOmitted",
+          "arrival": null,
+          "departure": null,
+          "isOmitted": true,
+          "createdDate": "2019-02-13T18:56:59.904626+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-05-13T21:06:00+00:00",
+      "departure": "2019-05-14T10:31:00+00:00",
+      "createdDate": "2019-02-14T14:43:01.949406+00:00",
+      "isOmitted": false,
+      "service": "Atlantic Loop 5",
+      "port": { "id": "GBSOU", "name": "Southampton" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-13T18:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-14T14:43:01.949406+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-14T05:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-14T14:43:01.949406+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-13T21:06:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-05-14T06:58:11.12546+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-14T10:31:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-05-15T09:23:35.07205+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-05-14T23:36:00+00:00",
+      "departure": "2019-05-15T14:06:00+00:00",
+      "createdDate": "2019-02-14T14:43:01.953883+00:00",
+      "isOmitted": false,
+      "service": "Atlantic Loop 5",
+      "port": { "id": "FRLEH", "name": "Le Havre" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-15T04:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-14T14:43:01.953883+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-15T11:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-14T14:43:01.953883+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-14T23:36:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-05-14T23:53:20.598744+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-15T18:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-05-15T07:46:03.796617+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-15T14:06:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-05-15T14:32:21.684024+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-05-16T14:54:00+00:00",
+      "departure": "2019-05-17T11:18:00+00:00",
+      "createdDate": "2019-02-14T14:43:01.958322+00:00",
+      "isOmitted": false,
+      "service": "Atlantic Loop 5",
+      "port": { "id": "NLRTM", "name": "Rotterdam" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-16T20:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-14T14:43:01.958322+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-17T10:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-14T14:43:01.958322+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-18T08:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-05-08T13:30:37.05884+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-17T14:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-05-08T13:30:37.05884+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-17T10:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-05-14T06:58:11.140228+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-16T20:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-05-14T06:58:11.140228+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-17T06:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-05-14T12:09:23.351346+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-16T14:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-05-14T12:09:23.351346+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-16T20:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-05-14T23:53:20.628297+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-17T10:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-05-14T23:53:20.628297+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-17T06:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-05-15T07:46:03.830981+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-16T14:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-05-15T07:46:03.830981+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-16T14:54:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-05-16T15:14:45.321868+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-17T11:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-05-17T08:43:45.272203+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-17T11:18:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-05-17T11:36:49.522653+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-05-18T11:00:00+00:00",
+      "departure": "2019-05-19T09:36:00+00:00",
+      "createdDate": "2019-02-14T14:43:01.962523+00:00",
+      "isOmitted": false,
+      "service": "Atlantic Loop 5",
+      "port": { "id": "DEHAM", "name": "Hamburg" },
+      "logEntries": [
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-19T21:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-14T14:43:01.962523+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-18T15:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-14T14:43:01.962523+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-19T03:30:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-05-08T13:30:37.086977+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-18T15:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-05-14T06:58:11.167958+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-19T20:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-05-17T10:00:54.655623+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-18T13:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-05-17T10:00:54.655623+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-18T11:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-05-18T18:47:28.995167+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-19T09:36:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-05-19T10:03:57.462381+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-05-18T23:00:00+00:00",
+      "departure": "2019-05-19T08:00:00+00:00",
+      "createdDate": "2019-02-13T18:34:07.223134+00:00",
+      "isOmitted": true,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "JPTYO", "name": "Tokyo" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-18T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-13T18:34:07.223134+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-19T08:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-13T18:34:07.223134+00:00"
+        },
+        {
+          "updatedField": "isOmitted",
+          "arrival": null,
+          "departure": null,
+          "isOmitted": true,
+          "createdDate": "2019-02-13T18:56:59.913418+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-05-19T23:00:00+00:00",
+      "departure": "2019-05-20T08:00:00+00:00",
+      "createdDate": "2019-02-13T18:34:07.233783+00:00",
+      "isOmitted": true,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "JPNGO", "name": "Nagoya, Aichi" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-19T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-13T18:34:07.233783+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-20T08:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-13T18:34:07.233783+00:00"
+        },
+        {
+          "updatedField": "isOmitted",
+          "arrival": null,
+          "departure": null,
+          "isOmitted": true,
+          "createdDate": "2019-02-13T18:56:59.91817+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-05-20T18:12:00+00:00",
+      "departure": "2019-05-21T20:24:00+00:00",
+      "createdDate": "2019-02-14T14:43:01.967202+00:00",
+      "isOmitted": false,
+      "service": "Atlantic Loop 5",
+      "port": { "id": "BEANR", "name": "Antwerpen" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-21T04:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-14T14:43:01.967202+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-21T21:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-14T14:43:01.967202+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-21T12:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-05-20T09:23:27.4368+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-20T19:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-05-20T09:23:27.4368+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-21T19:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-05-20T13:00:01.890654+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-20T18:12:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-05-20T18:34:39.851602+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-21T20:24:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-05-21T20:52:20.51473+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-05-20T23:00:00+00:00",
+      "departure": "2019-05-21T18:00:00+00:00",
+      "createdDate": "2019-02-13T18:34:07.291325+00:00",
+      "isOmitted": true,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "JPUKB", "name": "Kobe" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-20T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-13T18:34:07.291325+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-21T18:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-13T18:34:07.291325+00:00"
+        },
+        {
+          "updatedField": "isOmitted",
+          "arrival": null,
+          "departure": null,
+          "isOmitted": true,
+          "createdDate": "2019-02-14T14:43:01.89414+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-05-23T23:00:00+00:00",
+      "departure": "2019-05-24T09:00:00+00:00",
+      "createdDate": "2019-02-13T18:56:59.922524+00:00",
+      "isOmitted": true,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "JPNGO", "name": "Nagoya, Aichi" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-23T23:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-13T18:56:59.922524+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-24T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-13T18:56:59.922524+00:00"
+        },
+        {
+          "updatedField": "isOmitted",
+          "arrival": null,
+          "departure": null,
+          "isOmitted": true,
+          "createdDate": "2019-02-14T14:43:01.900318+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-05-25T02:00:00+00:00",
+      "departure": "2019-05-25T09:00:00+00:00",
+      "createdDate": "2019-02-13T18:56:59.928871+00:00",
+      "isOmitted": true,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "JPTYO", "name": "Tokyo" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-25T02:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-13T18:56:59.928871+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-25T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-13T18:56:59.928871+00:00"
+        },
+        {
+          "updatedField": "isOmitted",
+          "arrival": null,
+          "departure": null,
+          "isOmitted": true,
+          "createdDate": "2019-02-14T14:43:01.90918+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-05-26T03:00:00+00:00",
+      "departure": "2019-05-26T09:00:00+00:00",
+      "createdDate": "2019-02-13T18:34:07.303061+00:00",
+      "isOmitted": true,
+      "service": "Pacific South Loop 1",
+      "port": { "id": "JPSDJ", "name": "Sendai, Miyagi" },
+      "logEntries": [
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-26T03:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-13T18:34:07.303061+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-26T09:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-13T18:34:07.303061+00:00"
+        },
+        {
+          "updatedField": "isOmitted",
+          "arrival": null,
+          "departure": null,
+          "isOmitted": true,
+          "createdDate": "2019-02-14T14:43:01.913003+00:00"
+        }
+      ]
+    },
+    {
+      "arrival": "2019-05-31T23:42:00+00:00",
+      "departure": "2019-06-01T11:36:00+00:00",
+      "createdDate": "2019-02-14T14:43:01.972456+00:00",
+      "isOmitted": false,
+      "service": "Atlantic Loop 5",
+      "port": { "id": "USTSA", "name": "Savannah" },
+      "logEntries": [
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-05-31T15:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-02-14T14:43:01.972456+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-31T03:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-02-14T14:43:01.972456+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-06-01T00:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-05-23T14:49:53.895615+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-31T12:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-05-23T14:49:53.895615+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-06-01T10:30:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-05-31T11:20:30.172481+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-31T17:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-05-31T11:20:30.172481+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-31T22:00:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-05-31T17:40:41.167085+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-06-01T17:00:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-05-31T23:04:56.217636+00:00"
+        },
+        {
+          "updatedField": "arrival",
+          "arrival": "2019-05-31T23:42:00+00:00",
+          "departure": null,
+          "isOmitted": null,
+          "createdDate": "2019-05-31T23:04:56.217636+00:00"
+        },
+        {
+          "updatedField": "departure",
+          "arrival": null,
+          "departure": "2019-06-01T11:36:00+00:00",
+          "isOmitted": null,
+          "createdDate": "2019-06-01T10:48:00.379089+00:00"
+        }
+      ]
+    }
+  ]
+}

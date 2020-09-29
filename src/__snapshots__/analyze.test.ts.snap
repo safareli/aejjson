@@ -1,0 +1,1773 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`loadAndAnalyzeData works 1`] = `
+Object {
+  "bottom5PortByCount": Array [
+    Object {
+      "count": 1,
+      "durations": Array [
+        63720000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 63720000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 63720000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 63720000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 63720000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 63720000,
+        },
+      ],
+      "port": Object {
+        "id": "ITCAG",
+        "name": "Cagliari",
+      },
+    },
+    Object {
+      "count": 1,
+      "durations": Array [
+        73440000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 73440000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 73440000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 73440000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 73440000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 73440000,
+        },
+      ],
+      "port": Object {
+        "id": "NLRTM",
+        "name": "Rotterdam",
+      },
+    },
+    Object {
+      "count": 1,
+      "durations": Array [
+        52200000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 52200000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 52200000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 52200000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 52200000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 52200000,
+        },
+      ],
+      "port": Object {
+        "id": "FRLEH",
+        "name": "Le Havre",
+      },
+    },
+    Object {
+      "count": 1,
+      "durations": Array [
+        48300000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 48300000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 48300000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 48300000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 48300000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 48300000,
+        },
+      ],
+      "port": Object {
+        "id": "GBSOU",
+        "name": "Southampton",
+      },
+    },
+    Object {
+      "count": 1,
+      "durations": Array [
+        30960000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 30960000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 30960000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 30960000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 30960000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 30960000,
+        },
+      ],
+      "port": Object {
+        "id": "DOCAU",
+        "name": "Caucedo",
+      },
+    },
+  ],
+  "ports": Array [
+    Object {
+      "count": 1,
+      "durations": Array [
+        63720000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 63720000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 63720000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 63720000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 63720000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 63720000,
+        },
+      ],
+      "port": Object {
+        "id": "ITCAG",
+        "name": "Cagliari",
+      },
+    },
+    Object {
+      "count": 1,
+      "durations": Array [
+        73440000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 73440000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 73440000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 73440000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 73440000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 73440000,
+        },
+      ],
+      "port": Object {
+        "id": "NLRTM",
+        "name": "Rotterdam",
+      },
+    },
+    Object {
+      "count": 1,
+      "durations": Array [
+        52200000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 52200000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 52200000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 52200000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 52200000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 52200000,
+        },
+      ],
+      "port": Object {
+        "id": "FRLEH",
+        "name": "Le Havre",
+      },
+    },
+    Object {
+      "count": 1,
+      "durations": Array [
+        48300000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 48300000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 48300000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 48300000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 48300000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 48300000,
+        },
+      ],
+      "port": Object {
+        "id": "GBSOU",
+        "name": "Southampton",
+      },
+    },
+    Object {
+      "count": 1,
+      "durations": Array [
+        30960000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 30960000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 30960000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 30960000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 30960000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 30960000,
+        },
+      ],
+      "port": Object {
+        "id": "DOCAU",
+        "name": "Caucedo",
+      },
+    },
+    Object {
+      "count": 1,
+      "durations": Array [
+        50760000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 50760000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 50760000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 50760000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 50760000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 50760000,
+        },
+      ],
+      "port": Object {
+        "id": "COCTG",
+        "name": "Cartagena",
+      },
+    },
+    Object {
+      "count": 1,
+      "durations": Array [
+        58320000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 58320000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 58320000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 58320000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 58320000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 58320000,
+        },
+      ],
+      "port": Object {
+        "id": "PABLB",
+        "name": "Balboa",
+      },
+    },
+    Object {
+      "count": 1,
+      "durations": Array [
+        32400000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 32400000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 32400000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 32400000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 32400000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 32400000,
+        },
+      ],
+      "port": Object {
+        "id": "CAVAN",
+        "name": "Vancouver",
+      },
+    },
+    Object {
+      "count": 1,
+      "durations": Array [
+        51120000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 51120000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 51120000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 51120000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 51120000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 51120000,
+        },
+      ],
+      "port": Object {
+        "id": "USSEA",
+        "name": "Seattle",
+      },
+    },
+    Object {
+      "count": 1,
+      "durations": Array [
+        38160000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 38160000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 38160000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 38160000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 38160000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 38160000,
+        },
+      ],
+      "port": Object {
+        "id": "KRPUS",
+        "name": "Busan",
+      },
+    },
+    Object {
+      "count": 1,
+      "durations": Array [
+        64440000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 64440000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 64440000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 64440000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 64440000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 64440000,
+        },
+      ],
+      "port": Object {
+        "id": "ITCVV",
+        "name": "Civitavecchia",
+      },
+    },
+    Object {
+      "count": 1,
+      "durations": Array [
+        182160000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 182160000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 182160000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 182160000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 182160000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 182160000,
+        },
+      ],
+      "port": Object {
+        "id": "ITLIV",
+        "name": "Livorno",
+      },
+    },
+    Object {
+      "count": 1,
+      "durations": Array [
+        78840000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 78840000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 78840000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 78840000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 78840000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 78840000,
+        },
+      ],
+      "port": Object {
+        "id": "ITGOA",
+        "name": "Genova",
+      },
+    },
+    Object {
+      "count": 2,
+      "durations": Array [
+        44280000,
+        62640000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 44280000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 44280000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 44280000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 62640000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 62640000,
+        },
+      ],
+      "port": Object {
+        "id": "TRALI",
+        "name": "Aliaga",
+      },
+    },
+    Object {
+      "count": 2,
+      "durations": Array [
+        52500000,
+        61080000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 52500000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 52500000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 52500000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 61080000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 61080000,
+        },
+      ],
+      "port": Object {
+        "id": "EGDAM",
+        "name": "Dumyat (Damietta)",
+      },
+    },
+    Object {
+      "count": 2,
+      "durations": Array [
+        64440000,
+        42840000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 42840000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 42840000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 42840000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 64440000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 64440000,
+        },
+      ],
+      "port": Object {
+        "id": "USTSA",
+        "name": "Savannah",
+      },
+    },
+    Object {
+      "count": 2,
+      "durations": Array [
+        55800000,
+        44280000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 44280000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 44280000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 44280000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 55800000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 55800000,
+        },
+      ],
+      "port": Object {
+        "id": "TRISK",
+        "name": "Iskenderun",
+      },
+    },
+    Object {
+      "count": 2,
+      "durations": Array [
+        63360000,
+        57600000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 57600000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 57600000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 57600000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 63360000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 63360000,
+        },
+      ],
+      "port": Object {
+        "id": "ITSAL",
+        "name": "Salerno",
+      },
+    },
+    Object {
+      "count": 2,
+      "durations": Array [
+        51120000,
+        61200000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 51120000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 51120000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 51120000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 61200000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 61200000,
+        },
+      ],
+      "port": Object {
+        "id": "TRMER",
+        "name": "Mersin",
+      },
+    },
+    Object {
+      "count": 3,
+      "durations": Array [
+        168120000,
+        150840000,
+        107640000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 107640000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 107640000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 150840000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 168120000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 168120000,
+        },
+      ],
+      "port": Object {
+        "id": "CIABJ",
+        "name": "Abidjan",
+      },
+    },
+    Object {
+      "count": 3,
+      "durations": Array [
+        205200000,
+        144000000,
+        326700000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 144000000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 144000000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 205200000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 326700000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 326700000,
+        },
+      ],
+      "port": Object {
+        "id": "LBBEY",
+        "name": "Beirut",
+      },
+    },
+    Object {
+      "count": 3,
+      "durations": Array [
+        60120000,
+        45000000,
+        113760000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 45000000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 45000000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 60120000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 113760000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 113760000,
+        },
+      ],
+      "port": Object {
+        "id": "EGALY",
+        "name": "Alexandria",
+      },
+    },
+    Object {
+      "count": 3,
+      "durations": Array [
+        112140000,
+        118440000,
+        117300000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 112140000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 112140000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 117300000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 118440000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 118440000,
+        },
+      ],
+      "port": Object {
+        "id": "GHTEM",
+        "name": "Tema",
+      },
+    },
+    Object {
+      "count": 4,
+      "durations": Array [
+        90360000,
+        83400000,
+        56160000,
+        84960000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 56160000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 56160000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 83400000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 84960000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 90360000,
+        },
+      ],
+      "port": Object {
+        "id": "MACAS",
+        "name": "Casablanca",
+      },
+    },
+    Object {
+      "count": 5,
+      "durations": Array [
+        61560000,
+        60840000,
+        89640000,
+        89280000,
+        94320000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 60840000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 60840000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 89280000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 89640000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 94320000,
+        },
+      ],
+      "port": Object {
+        "id": "BEANR",
+        "name": "Antwerpen",
+      },
+    },
+    Object {
+      "count": 5,
+      "durations": Array [
+        45720000,
+        49680000,
+        111960000,
+        51480000,
+        81360000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 45720000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 45720000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 51480000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 81360000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 111960000,
+        },
+      ],
+      "port": Object {
+        "id": "DEHAM",
+        "name": "Hamburg",
+      },
+    },
+    Object {
+      "count": 6,
+      "durations": Array [
+        71700000,
+        58200000,
+        81000000,
+        79200000,
+        42120000,
+        111240000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 42120000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 58200000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 71700000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 81000000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 111240000,
+        },
+      ],
+      "port": Object {
+        "id": "GRPIR",
+        "name": "Piraeus",
+      },
+    },
+    Object {
+      "count": 6,
+      "durations": Array [
+        16800000,
+        27600000,
+        26100000,
+        15300000,
+        21000000,
+        18300000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 15300000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 16800000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 18300000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 26100000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 27600000,
+        },
+      ],
+      "port": Object {
+        "id": "JPSDJ",
+        "name": "Sendai, Miyagi",
+      },
+    },
+    Object {
+      "count": 7,
+      "durations": Array [
+        56640000,
+        50400000,
+        46080000,
+        28440000,
+        23760000,
+        44040000,
+        74880000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 23760000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 28440000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 46080000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 56640000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 74880000,
+        },
+      ],
+      "port": Object {
+        "id": "JPUKB",
+        "name": "Kobe",
+      },
+    },
+    Object {
+      "count": 7,
+      "durations": Array [
+        78000000,
+        39600000,
+        69240000,
+        44640000,
+        78300000,
+        62640000,
+        75240000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 39600000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 44640000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 69240000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 78000000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 78300000,
+        },
+      ],
+      "port": Object {
+        "id": "MAPTM",
+        "name": "Tanger Med",
+      },
+    },
+    Object {
+      "count": 8,
+      "durations": Array [
+        43560000,
+        47160000,
+        53640000,
+        23040000,
+        27360000,
+        51840000,
+        30240000,
+        30360000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 23040000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 27360000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 30360000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 47160000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 53640000,
+        },
+      ],
+      "port": Object {
+        "id": "JPNGO",
+        "name": "Nagoya, Aichi",
+      },
+    },
+    Object {
+      "count": 8,
+      "durations": Array [
+        43920000,
+        88200000,
+        101160000,
+        181440000,
+        39600000,
+        90720000,
+        47160000,
+        36720000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 36720000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 39600000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 47160000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 90720000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 181440000,
+        },
+      ],
+      "port": Object {
+        "id": "USOK3",
+        "name": "Oakland",
+      },
+    },
+    Object {
+      "count": 8,
+      "durations": Array [
+        633060000,
+        221760000,
+        214200000,
+        159840000,
+        126720000,
+        218160000,
+        83520000,
+        88560000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 83520000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 88560000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 159840000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 218160000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 633060000,
+        },
+      ],
+      "port": Object {
+        "id": "USLAX",
+        "name": "Los Angeles",
+      },
+    },
+    Object {
+      "count": 11,
+      "durations": Array [
+        72720000,
+        36000000,
+        32760000,
+        39600000,
+        39000000,
+        23040000,
+        114840000,
+        29880000,
+        33840000,
+        38160000,
+        27420000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 23040000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 29880000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 36000000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 39600000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 72720000,
+        },
+      ],
+      "port": Object {
+        "id": "JPTYO",
+        "name": "Tokyo",
+      },
+    },
+  ],
+  "top5PortByCount": Array [
+    Object {
+      "count": 11,
+      "durations": Array [
+        72720000,
+        36000000,
+        32760000,
+        39600000,
+        39000000,
+        23040000,
+        114840000,
+        29880000,
+        33840000,
+        38160000,
+        27420000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 23040000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 29880000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 36000000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 39600000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 72720000,
+        },
+      ],
+      "port": Object {
+        "id": "JPTYO",
+        "name": "Tokyo",
+      },
+    },
+    Object {
+      "count": 8,
+      "durations": Array [
+        633060000,
+        221760000,
+        214200000,
+        159840000,
+        126720000,
+        218160000,
+        83520000,
+        88560000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 83520000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 88560000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 159840000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 218160000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 633060000,
+        },
+      ],
+      "port": Object {
+        "id": "USLAX",
+        "name": "Los Angeles",
+      },
+    },
+    Object {
+      "count": 8,
+      "durations": Array [
+        43920000,
+        88200000,
+        101160000,
+        181440000,
+        39600000,
+        90720000,
+        47160000,
+        36720000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 36720000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 39600000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 47160000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 90720000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 181440000,
+        },
+      ],
+      "port": Object {
+        "id": "USOK3",
+        "name": "Oakland",
+      },
+    },
+    Object {
+      "count": 8,
+      "durations": Array [
+        43560000,
+        47160000,
+        53640000,
+        23040000,
+        27360000,
+        51840000,
+        30240000,
+        30360000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 23040000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 27360000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 30360000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 47160000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 53640000,
+        },
+      ],
+      "port": Object {
+        "id": "JPNGO",
+        "name": "Nagoya, Aichi",
+      },
+    },
+    Object {
+      "count": 7,
+      "durations": Array [
+        78000000,
+        39600000,
+        69240000,
+        44640000,
+        78300000,
+        62640000,
+        75240000,
+      ],
+      "percentiles": Array [
+        Object {
+          "percentile": 5,
+          "value": 39600000,
+        },
+        Object {
+          "percentile": 20,
+          "value": 44640000,
+        },
+        Object {
+          "percentile": 50,
+          "value": 69240000,
+        },
+        Object {
+          "percentile": 75,
+          "value": 78000000,
+        },
+        Object {
+          "percentile": 90,
+          "value": 78300000,
+        },
+      ],
+      "port": Object {
+        "id": "MAPTM",
+        "name": "Tanger Med",
+      },
+    },
+  ],
+  "vessels": Array [
+    Object {
+      "delays": Array [
+        Object {
+          "day": 14,
+          "percentiles": Array [
+            Object {
+              "percentile": 5,
+              "value": 24840000,
+            },
+            Object {
+              "percentile": 50,
+              "value": 285480000,
+            },
+            Object {
+              "percentile": 80,
+              "value": 551520000,
+            },
+          ],
+        },
+        Object {
+          "day": 7,
+          "percentiles": Array [
+            Object {
+              "percentile": 5,
+              "value": 11520000,
+            },
+            Object {
+              "percentile": 50,
+              "value": 133200000,
+            },
+            Object {
+              "percentile": 80,
+              "value": 216720000,
+            },
+          ],
+        },
+        Object {
+          "day": 2,
+          "percentiles": Array [
+            Object {
+              "percentile": 5,
+              "value": 2880000,
+            },
+            Object {
+              "percentile": 50,
+              "value": 39960000,
+            },
+            Object {
+              "percentile": 80,
+              "value": 130320000,
+            },
+          ],
+        },
+      ],
+      "vessel": Object {
+        "imo": 9303807,
+        "name": "ABIDJAN EXPRESS",
+      },
+    },
+    Object {
+      "delays": Array [
+        Object {
+          "day": 14,
+          "percentiles": Array [
+            Object {
+              "percentile": 5,
+              "value": 28080000,
+            },
+            Object {
+              "percentile": 50,
+              "value": 350280000,
+            },
+            Object {
+              "percentile": 80,
+              "value": 474120000,
+            },
+          ],
+        },
+        Object {
+          "day": 7,
+          "percentiles": Array [
+            Object {
+              "percentile": 5,
+              "value": 14400000,
+            },
+            Object {
+              "percentile": 50,
+              "value": 218880000,
+            },
+            Object {
+              "percentile": 80,
+              "value": 299400000,
+            },
+          ],
+        },
+        Object {
+          "day": 2,
+          "percentiles": Array [
+            Object {
+              "percentile": 5,
+              "value": 19080000,
+            },
+            Object {
+              "percentile": 50,
+              "value": 94200000,
+            },
+            Object {
+              "percentile": 80,
+              "value": 181800000,
+            },
+          ],
+        },
+      ],
+      "vessel": Object {
+        "imo": 9314935,
+        "name": "AS CAROLINA",
+      },
+    },
+    Object {
+      "delays": Array [
+        Object {
+          "day": 14,
+          "percentiles": Array [
+            Object {
+              "percentile": 5,
+              "value": 19080000,
+            },
+            Object {
+              "percentile": 50,
+              "value": 197280000,
+            },
+            Object {
+              "percentile": 80,
+              "value": 258120000,
+            },
+          ],
+        },
+        Object {
+          "day": 7,
+          "percentiles": Array [
+            Object {
+              "percentile": 5,
+              "value": 4320000,
+            },
+            Object {
+              "percentile": 50,
+              "value": 75600000,
+            },
+            Object {
+              "percentile": 80,
+              "value": 153000000,
+            },
+          ],
+        },
+        Object {
+          "day": 2,
+          "percentiles": Array [
+            Object {
+              "percentile": 5,
+              "value": 2880000,
+            },
+            Object {
+              "percentile": 50,
+              "value": 29880000,
+            },
+            Object {
+              "percentile": 80,
+              "value": 129240000,
+            },
+          ],
+        },
+      ],
+      "vessel": Object {
+        "imo": 9335173,
+        "name": "COSCO BOSTON",
+      },
+    },
+    Object {
+      "delays": Array [
+        Object {
+          "day": 14,
+          "percentiles": Array [
+            Object {
+              "percentile": 5,
+              "value": 4440000,
+            },
+            Object {
+              "percentile": 50,
+              "value": 70560000,
+            },
+            Object {
+              "percentile": 80,
+              "value": 113400000,
+            },
+          ],
+        },
+        Object {
+          "day": 7,
+          "percentiles": Array [
+            Object {
+              "percentile": 5,
+              "value": 1080000,
+            },
+            Object {
+              "percentile": 50,
+              "value": 42120000,
+            },
+            Object {
+              "percentile": 80,
+              "value": 86760000,
+            },
+          ],
+        },
+        Object {
+          "day": 2,
+          "percentiles": Array [
+            Object {
+              "percentile": 5,
+              "value": 360000,
+            },
+            Object {
+              "percentile": 50,
+              "value": 12600000,
+            },
+            Object {
+              "percentile": 80,
+              "value": 42480000,
+            },
+          ],
+        },
+      ],
+      "vessel": Object {
+        "imo": 9337626,
+        "name": "NYK CONSTELLATION",
+      },
+    },
+  ],
+}
+`;

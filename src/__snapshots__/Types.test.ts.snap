@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`decode 1`] = `
+Object {
+  "imo": 9303807,
+  "name": "ABIDJAN EXPRESS",
+}
+`;
+
+exports[`decode 2`] = `
+Object {
+  "arrival": 2018-12-28T23:12:00.000Z,
+  "createdDate": 2019-01-16T09:04:49.048Z,
+  "departure": 2019-01-05T07:03:00.000Z,
+  "isOmitted": false,
+  "logEntries": Array [
+    Object {
+      "arrival": 2018-12-28T23:12:00.000Z,
+      "createdDate": 2019-01-16T09:04:49.048Z,
+      "updatedField": "arrival",
+    },
+    Object {
+      "createdDate": 2019-01-16T09:04:49.048Z,
+      "departure": 2019-01-05T07:03:00.000Z,
+      "updatedField": "departure",
+    },
+  ],
+  "port": Object {
+    "id": "USLAX",
+    "name": "Los Angeles",
+  },
+  "service": "Pacific South Loop 1",
+}
+`;

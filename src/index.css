@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  min-height: 100vh;
+}
+.App-Section {
+  flex: 0 0 auto;
+}
+
+.App-loading,
+.App-error {
+  align-self: center;
+}
