@@ -1,6 +1,6 @@
 import * as React from "react";
 import ReactDOM from "react-dom";
-import * as Env from "./env";
+import * as Env from "./Env";
 import { App } from "./App";
 
 ReactDOM.render(

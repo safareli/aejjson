@@ -1,10 +1,10 @@
 import * as React from "react";
 
-import * as Env from "./env";
+import * as Env from "./Env";
 import {
   formatPercentile,
   formatMsDuration,
-  loadAndAnalyzeData,
+  loadAndAnalyzeData
 } from "./analyze";
 import { useAsync } from "./lib/useAsync";
 
